@@ -1,0 +1,5 @@
+{
+  "name": "Ceni",
+  "description": "A web application for a business club directory, allowing members to search for contacts and admins to manage the directory. It also features a shared photo album for club events.",
+  "requestFramePermissions": []
+}
